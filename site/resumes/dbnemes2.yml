@@ -21,11 +21,12 @@ basic_info:
     # You have 1 paragraph to make a great impression, summarize your career
     summary: |
       I am a Yale PhD graduate who studied particle jets in heavy-ion collions using the STAR detector at Brookhaven National Lab. My work included using C++ to analyze
-      billions of heavy-ion collision events to search for jet substructure modification due to a Quark-Gluon Plasma medium.
+      billions of heavy-ion collision events to search for jet substructure modification due to a Quark-Gluon Plasma medium. Looking to leverage my expertise in working 
+      with complex data to transition to a data science career.
     
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
-    avatar: https://randomuser.me/api/portraits/women/24.jpg
+    #avatar: https://randomuser.me/api/portraits/women/24.jpg
 
     # Contact Information
     #email: a@a.com #optional
